@@ -1,0 +1,147 @@
+*{
+padding: 0px;
+box-sizing: border-box;
+margin: 0px;
+
+
+}
+
+
+
+
+.knowledgehut{
+
+ height: 300px;
+ width: 300px;
+margin-left: 50px;
+
+
+}
+
+.photo img{
+
+height: 630px;
+width: 600px;
+
+
+
+}
+
+.flex{
+
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.knowledgehut h1{
+
+padding-top: 40px;
+}
+
+.knowledgehut p{
+
+
+    padding: 4px;
+font-size: 13px;
+
+
+}
+
+.knowledgehut1{
+
+    height: 630px;
+    width: 600px;
+
+
+
+}
+
+.input input{
+
+height: 50px;
+width: 400px;
+
+
+}
+
+.input{
+
+
+  padding-top: 30px;
+
+
+}
+
+.inputpass input{
+
+    height: 50px;
+    width: 400px;
+    
+
+
+}
+
+
+.inputpass{
+
+padding-top: 20px;
+
+
+
+}
+
+.button{
+
+width: 400px;
+height: 50px;
+background-color: darkblue;
+border-radius: 12px;
+padding-top: 10px;
+padding-left: 160px;
+margin: 50px;
+color: white;
+
+
+}
+
+
+.para p{
+
+ margin-left: 140px;
+
+
+}
+
+.imageill img{
+
+
+height: 50px;
+width: 40px;
+
+
+}
+
+
+.mainflex{
+
+display: flex;
+padding-top: 30px;
+align-items: center;
+justify-content: center;
+margin-right: 130px;
+
+}
+
+
+.imageilll img{
+
+
+    height: 50px;
+    width: 40px;
+    padding: 2px;
+    margin-left: 30px;
+
+
+
+    }
